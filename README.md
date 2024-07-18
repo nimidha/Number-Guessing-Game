@@ -14,7 +14,7 @@ The game continues until the player guesses the correct number. The total number
 
 # Technologies Used
 
-    JavaScript: Implements the game logic and handles user interactions.
+    JavaScript
 
 # How to Play
 
