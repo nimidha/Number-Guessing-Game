@@ -1,6 +1,3 @@
-// while loop
-//2.34.54
-
 
 const min=1;
 const max=100;
