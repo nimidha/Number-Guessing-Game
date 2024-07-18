@@ -19,7 +19,7 @@ The game continues until the player guesses the correct number. The total number
 # How to Play
 
     Clone or download the repository to your local machine.
-    Open the index.html file in a web browser.
+    Open the .html file in a web browser.
     The game will prompt you to enter a number between 1 and 100.
     Based on your input, the game will provide feedback on whether your guess is too high, too low, or correct.
     Continue guessing until you correctly guess the random number.
